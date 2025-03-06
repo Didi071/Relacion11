@@ -7,7 +7,7 @@ public class IngenieroInformatico extends Ingeniero {
     }
 
     //Constructor
-    public IngenieroInformatico(){
-        super();
-    }
+public IngenieroInformatico(String nif, int altura, int edad) {
+    super(nif, altura, edad);
+}
 }

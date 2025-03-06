@@ -20,4 +20,5 @@ public class Ingeniero extends Persona{
     public String toString() {
         return "Ingeniero: NIF: " + nif + " altura: " + altura + " edad: " + edad;
     }
+
 }

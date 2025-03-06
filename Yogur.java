@@ -16,4 +16,5 @@ public class Yogur {
     public String toString() {
         return "El yogur tiene " + calorias + "calorias";
     }
+    
 }
