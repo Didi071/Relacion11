@@ -11,7 +11,9 @@ public class Ingeniero extends Persona{
 
     public Ingeniero(String nif, int altura, int edad){
         super(nif, altura, edad);
-    }
+    } 
+
+    // public;
 
     public Ingeniero(){
         super();
